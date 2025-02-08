@@ -1,7 +1,7 @@
 # 🛵 Landing Page
 ## 🚀 Features
 
-- 🌍 Interactive **Map Component** for location-based services
+- 🌍 Interactive **Map Component** 
 - 🎨 Responsive **Navbar & Footer** with smooth UI
 - 🔥 Clean and modern design with **Tailwind CSS**
 ---
