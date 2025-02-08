@@ -13,7 +13,8 @@
 
 ## 📸 Screenshots
 (You can add project screenshots here)
-![Screenshot 2025-02-08 153606](https://github.com/user-attachments/assets/46563802-1229-4eb7-adeb-38f4b9762475)
+
+![Screenshot 2025-02-08 160739](https://github.com/user-attachments/assets/5449fe86-36ee-4b25-a78c-3d5455307c2b)
 
 ---
 
